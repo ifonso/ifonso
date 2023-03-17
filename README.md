@@ -1,9 +1,21 @@
 # What's up ✌🏻 Afonso here!
 
-&nbsp;
 ```html
 <h2>  iOS Developer passionate about playing with code, btw BUY BITCOIN! 🤠 </h2>
 ```
+
+&nbsp;
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/afonso-lucas-49a57b261/" target="_blank">
+    <img alt="Code" src="./assets/Linkedin.svg">
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@afonso.script.sol" target="_blank">
+    <img alt="Code" src="./assets/Medium.svg">
+  </a>
+</p>
+
 &nbsp;
 
 - 🔭 I’m currently working on ➡️ **Some side project.**
@@ -25,6 +37,6 @@
 
 
 &nbsp;
-```html
-"Think different" they said, bro if I try harder than that they would call me crazy 😶
-```
+<p align="center">
+  <samp><b>"Think different"</b> they said, bro if I try harder than that they would call me crazy 😶</samp>
+</p>

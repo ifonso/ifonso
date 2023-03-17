@@ -32,6 +32,7 @@
 
 <div align="center">
   <img src="https://my-github-components.vercel.app/spotify"/>
+    &nbsp;
   <img src="https://my-github-components.vercel.app/github"/>
 </div>
 

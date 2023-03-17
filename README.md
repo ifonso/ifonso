@@ -2,4 +2,7 @@
 
 <p>Under construction 🚧 </p>
 
-![](https://my-github-components.vercel.app/spotify)
+<div>
+  <img src="https://my-github-components.vercel.app/spotify"/>
+  <img src="https://my-github-components.vercel.app/github"/>
+</div>

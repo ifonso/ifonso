@@ -4,8 +4,6 @@
 <h2>  iOS Developer passionate about playing with code, btw BUY BITCOIN! 🤠 </h2>
 ```
 
-&nbsp;
-
 <p align="center">
   <a href="https://www.linkedin.com/in/afonso-lucas-49a57b261/" target="_blank">
     <img alt="Code" src="./assets/Linkedin.svg">
@@ -38,6 +36,13 @@
 
 
 &nbsp;
+
 <p align="center">
   <samp><b>"Think different"</b> they said, bro if I try harder than that they would call me crazy 😶</samp>
 </p>
+
+&nbsp;
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=unchainedDavid&color=2a2a2a&style=flat&label=views" />
+</div>

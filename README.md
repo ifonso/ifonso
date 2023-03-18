@@ -4,6 +4,8 @@
 <h2>  iOS Developer passionate about playing with code, btw BUY BITCOIN! 🤠 </h2>
 ```
 
+&nbsp;
+
 <p align="center">
   <a href="https://www.linkedin.com/in/afonso-lucas-49a57b261/" target="_blank">
     <img alt="Code" src="./assets/Linkedin.svg">

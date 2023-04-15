@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on ➡️ **My Swift Student Challenge project 😬.**
 
-- 🌱 I’m currently learning ➡️ **Nodejs streams, Functional programming & iOS UIKit.**
+- 🌱 I’m currently learning ➡️ **Nodejs streams, Functional programming, iOS UIKit & 日本語.**
 
 - 📝 Sometimes I write articles on ➡️ [https://medium.com/@afonso.script.sol](https://medium.com/@afonso.script.sol)
 

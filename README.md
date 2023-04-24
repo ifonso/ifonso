@@ -18,7 +18,7 @@
 
 &nbsp;
 
-- 🔭 I’m currently working on ➡️ **My Swift Student Challenge project 😬.**
+- 🔭 I’m currently working on ➡️ **You'll know soon 😶**
 
 - 🌱 I’m currently learning ➡️ **Nodejs streams, Functional programming, iOS UIKit & 日本語.**
 

@@ -20,13 +20,13 @@
 
 - 🔭 I’m currently working on ➡️ **You'll know soon 😶**
 
-- 🌱 I’m currently learning ➡️ **Nodejs streams, Functional programming, iOS UIKit & 日本語.**
+- 🌱 I’m currently learning ➡️ **Objective-C, Clean Architecture, iOS UIKit & 日本語.**
 
 - 📝 Sometimes I write articles on ➡️ [https://medium.com/@afonso.script.sol](https://medium.com/@afonso.script.sol)
 
 - 📫 How to reach me ➡️ **afonso.script.sol@gmail.com**
 
-- ⚡ Fun fact ➡️ **I like UI design, but I prefer to avoid the frontend.**
+- ⚡ Fun fact ➡️ **My `Hello, World!` in any programming language is a simple web server.**
 
 &nbsp;
 

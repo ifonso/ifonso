@@ -30,6 +30,10 @@
 
 &nbsp;
 
+<p align="center">
+  <samp>Latest songs listened to | Most used programming languages</samp>
+</p>
+
 <div align="center">
   <img src="https://my-github-components.vercel.app/spotify"/>
     &nbsp;
@@ -47,4 +51,12 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=unchainedDavid&color=2a2a2a&style=flat&label=views" />
+</div>
+
+## Latest Projects
+
+Explore a world of musics by seeing what people around you are listening to! Waver is the latest project that I've worked on and it's available at [App Sotore](https://apps.apple.com/br/app/waver/id6463060210).
+
+<div align="center">
+  <img src="./assets/screen_1.jpg" width=300 /> | <img src="./assets/screen_2.jpg" width=300 />
 </div>

@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on ➡️ **You'll know soon 😶**
 
-- 🌱 I’m currently learning ➡️ **Go, Clean Architecture & HLS Protocol.**
+- 🌱 I’m currently learning ➡️ **C, Objective-C, Neural Networks & LLM's.**
 
 - 📝 Sometimes I write articles on ➡️ [https://medium.com/@afonso.script.sol](https://medium.com/@afonso.script.sol)
 

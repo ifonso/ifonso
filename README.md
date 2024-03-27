@@ -6,15 +6,10 @@
 
 &nbsp;
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ifonso/" target="_blank">
-    <img alt="Code" src="./assets/Linkedin.svg">
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@afonso.script.sol" target="_blank">
-    <img alt="Code" src="./assets/Medium.svg">
-  </a>
-</p>
+<div align="center">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ifonso&show_icons=true&hide_title=false&hide=issues,contribs&rank_icon=github&theme=apprentice" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifonso&layout=compact&hide_progress=true&theme=apprentice" />
+<div>
 
 &nbsp;
 
@@ -24,7 +19,7 @@
 
 - 📝 Sometimes I write articles on ➡️ [https://medium.com/@afonso.script.sol](https://medium.com/@afonso.script.sol)
 
-- 📫 How to reach me ➡️ **ifonso.developer@gmail.com**
+- 📫 How to reach me ➡️ ifonso.developer@gmail.com
 
 - ⚡ Fun fact ➡️ **My `Hello, World!` in any programming language is a simple web server.**
 
@@ -44,9 +39,3 @@
 <p align="center">
   <samp><b>"Think different"</b> they said, bro if I try harder than that they would call me crazy 😶</samp>
 </p>
-
-&nbsp;
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=unchainedDavid&color=2a2a2a&style=flat&label=views" />
-</div>

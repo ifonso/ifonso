@@ -13,6 +13,8 @@
 
 &nbsp;
 
+<div align="left">
+
 - 🔭 I’m currently working on ➡️ **You'll know soon 😶**
 
 - 🌱 I’m currently learning ➡️ **C, Objective-C, Neural Networks & LLM's.**
@@ -22,6 +24,7 @@
 - 📫 How to reach me ➡️ ifonso.developer@gmail.com
 
 - ⚡ Fun fact ➡️ **My `Hello, World!` in any programming language is a simple web server.**
+<div/>
 
 &nbsp;
 

@@ -39,6 +39,8 @@
 
 &nbsp;
 
-<p align="center">
-  <samp><b>"Think different"</b> they said, bro if I try harder than that they would call me crazy 😶</samp>
+<p align="left">
+  <samp>"Be curious. Read widely. Try new things. I think a lot of what people call intelligence boils down to curiosity."</samp>
+    
+  <samp><b>- Aaron Swartz</b></samp>
 </p>

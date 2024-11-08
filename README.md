@@ -15,9 +15,9 @@
 
 <div align="left">
 
-- 🔭 I’m currently working on ➡️ **You'll know soon 😶**
+- 🔭 I’m currently working with ➡️ **ML for Industry 4.0 and digital twins**
 
-- 🌱 I’m currently learning ➡️ **C, Objective-C, Neural Networks & LLM's.**
+- 🌱 I’m currently learning ➡️ **C++, Lambda calculus, Neural Networks & LLM's.**
 
 - 📝 Sometimes I write articles on ➡️ [https://medium.com/@afonso.script.sol](https://medium.com/@afonso.script.sol)
 

@@ -40,7 +40,7 @@
 &nbsp;
 
 <p align="left">
-  <samp>"Be curious. Read widely. Try new things. I think a lot of what people call intelligence boils down to curiosity."</samp>
+  <samp>"What I cannot build. I do not understand."</samp>
     
-  <samp><b>- Aaron Swartz</b></samp>
+  <samp><b>- Richard Feynman</b></samp>
 </p>

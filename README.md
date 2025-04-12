@@ -21,7 +21,7 @@
 
 - 📝 Sometimes I write articles on ➡️ [https://medium.com/@afonso.script.sol](https://medium.com/@afonso.script.sol)
 
-- 📫 How to reach me ➡️ ifonso.developer@gmail.com
+- 📫 How to reach me ➡️ contato@ifonso.com.br
 
 - ⚡ Fun fact ➡️ **My `Hello, World!` in any programming language is a simple web server.**
 <div/>

@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working with ➡️ **ML for Industry 4.0 and digital twins**
 
-- 🌱 I’m currently learning ➡️ **C++, Lambda calculus, Neural Networks & LLM's.**
+- 🌱 I’m currently learning ➡️ **Zig, Neural Networks, LLMs & MCP.**
 
 - 📝 Sometimes I write articles on ➡️ [https://medium.com/@afonso.script.sol](https://medium.com/@afonso.script.sol)
 
